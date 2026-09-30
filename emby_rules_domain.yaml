@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,yusen.cc.cd
   - DOMAIN-SUFFIX,yusen.us.ci
   - DOMAIN-SUFFIX,yusen6.ccwu.cc
+  - IP-CIDR,17.253.4.125/32,no-resolve
