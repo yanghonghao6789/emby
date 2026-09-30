@@ -1,4 +1,5 @@
-DOMAIN-SUFFIX,yusen.cyou
-DOMAIN-SUFFIX,yusen.cc.cd
-DOMAIN-SUFFIX,yusen.us.ci
-DOMAIN-SUFFIX,yusen6.ccwu.cc
+payload:
+  - 'DOMAIN-SUFFIX,yusen.cyou'
+  - 'DOMAIN-SUFFIX,yusen.cc.cd'
+  - 'DOMAIN-SUFFIX,yusen.us.ci'
+  - 'DOMAIN-SUFFIX,yusen6.ccwu.cc'
