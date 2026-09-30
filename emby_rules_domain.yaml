@@ -1,4 +1,10 @@
-'yusen.cyou'
-'yusen.cc.cd'
-'yusen.us.ci'
-'yusen6.ccwu.cc'
+payload:
+  - DOMAIN,13.yusen.cyou
+  - DOMAIN,aaa.yusen6.ccwu.cc
+  - DOMAIN,emby.yusen.us.ci
+  - DOMAIN,embya.yusen.cyou
+  - DOMAIN,emby.yusen.cc.cd
+  - DOMAIN-SUFFIX,yusen.cyou
+  - DOMAIN-SUFFIX,yusen.cc.cd
+  - DOMAIN-SUFFIX,yusen.us.ci
+  - DOMAIN-SUFFIX,yusen6.ccwu.cc
