@@ -1,8 +1,6 @@
-- type: DOMAIN
-  payload:
-  - "baidu.com"
-
-
 - type: DOMAIN-SUFFIX
   payload:
-  - "+.baidu.com"
+  - "+.yusen.cyou"
+    - "+.yusen.cc.cd"
+    - "+.yusen.us.ci"
+    - "+.yusen6.ccwu.cc"
