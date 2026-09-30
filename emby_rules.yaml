@@ -1,0 +1,8 @@
+- type: DOMAIN
+  payload:
+  - "baidu.com"
+
+
+- type: DOMAIN-SUFFIX
+  payload:
+  - "+.baidu.com"
