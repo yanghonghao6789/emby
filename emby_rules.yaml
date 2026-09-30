@@ -1,6 +1,6 @@
 - type: DOMAIN-SUFFIX
   payload:
   - "+.yusen.cyou"
-    - "+.yusen.cc.cd"
-    - "+.yusen.us.ci"
-    - "+.yusen6.ccwu.cc"
+  - "+.yusen.cc.cd"
+  - "+.yusen.us.ci"
+  - "+.yusen6.ccwu.cc"
