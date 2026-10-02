@@ -2,8 +2,12 @@ payload:
     # 在线文件上传与分享服务(草榴分享多用该服务)
     - +.66img.cc               # 图片流 屏蔽香港IP
     - +.23img.com              # 图片流
-    - +.skyimg.net             # 图片流
+    - +.acg.lol                # 图片流
     - +.giphy.com              # 图片流
     - +.redircdn.com           # 图片流
+    - +.skyimg.net             # 图片流
+
+
+
 
     - +.imgly.net              # 视频流
