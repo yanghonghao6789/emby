@@ -1,3 +1,4 @@
 payload:
     # 在线文件上传与分享服务(草榴分享多用该服务)
     - +.imgly.net
+    - +.static.redircdn.com
