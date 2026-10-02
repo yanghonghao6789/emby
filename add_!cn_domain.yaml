@@ -3,4 +3,4 @@ payload:
     #- +.23img.com
     #- +.66img.cc
     #- +.imgly.net
-    #- +.static.redircdn.com
+    - +.static.redircdn.com
